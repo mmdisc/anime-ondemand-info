@@ -1,4 +1,7 @@
 # 2020年冬アニメ
+- 最新話無料配信アニメ
+- ビデオオンデマンドな"配信"もの対象
+- ニコ生のようなライブストリーミングな"放送"ものは対象外
 
 ## 月曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
@@ -9,7 +12,7 @@
 |おーばーふろぉ|1:00|2020/01/06|<a href="https://ch.nicovideo.jp/overflow" target="_blank">ニコニコ</a>  <a href="https://gyao.yahoo.co.jp/p/00274/v10584/" target="_blank">GYAO!</a>|ニコニコは全話常設無料|
 |ソマリと森の神様|12:00|2020/01/13|<a href="https://ch.nicovideo.jp/somali-anime" target="_blank">ニコニコ</a>  GYAO!|
 |七つの大罪 神々の逆鱗|22:00|2019/10/14|<a href="https://gyao.yahoo.co.jp/p/11244/v00004/" target="_blank">GYAO!</a>|
-|Re:ゼロから始める異世界生活 新編集版|23:00|2020/01/06|<a href="https://ch.nicovideo.jp/re-zero-anime" target="_blank">ニコニコ</a>|
+|Re:ゼロから始める異世界生活 新編集版|23:00|2020/01/06|<a href="https://ch.nicovideo.jp/re-zero-anime" target="_blank">ニコニコ</a>  <a href="https://gyao.yahoo.co.jp/p/00998/v01183/" target="_blank">GYAO!</a>|
 |ARP Backstage Pass|23:00|2020/01/20|ニコニコ|
 
 ## 火曜日
@@ -72,4 +75,5 @@
 |虚構推理|1:30|2020/01/12|<a href="https://gyao.yahoo.co.jp/p/00111/v08210/" target="_blank">GYAO!</a>|
 |デュエル・マスターズ！！|9:00|2019/04/10|<a href="https://ch.nicovideo.jp/duelmasters_2" target="_blank">ニコニコ</a>|
 |ぼくのとなりに暗黒破壊神がいます。|22:00|2020/01/19|<a href="https://gyao.yahoo.co.jp/p/01114/v00126/" target="_blank">GYAO!</a>|
+|ファンタシ―スタ―オンライン2　エピソ―ド・オラクル|22:30|2019/10/13|<a href="https://ch.nicovideo.jp/pso2_eporacle" target="_blank">ニコニコ</a>|
 |Fate/Grand Order -絶対魔獣戦線バビロニア-|23:00|2019/10/06|<a href="https://ch.nicovideo.jp/ep7-tv" target="_blank">ニコニコ</a>|
