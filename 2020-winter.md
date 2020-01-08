@@ -32,7 +32,7 @@
 |痛いのは嫌なので防御力に極振りしたいと思います。|0:00|2020/01/15|<a href="https://ch.nicovideo.jp/bofuri" target="_blank">ニコニコ</a><br>GYAO!|
 |プランダラ|0:00|2020/01/15|<a href="https://ch.nicovideo.jp/plunderer" target="_blank">ニコニコ</a><br>GYAO!|
 |魔術士オーフェンはぐれ旅|0:00|2020/01/15|GYAO!|
-|マギアレコード 魔法少女まどか☆マギカ外伝|0:30|2020/01/08|<a href="https://ch.nicovideo.jp/magireco" target="_blank">ニコニコ</a><br>GYAO!|
+|マギアレコード 魔法少女まどか☆マギカ外伝|0:30|2020/01/08|<a href="https://ch.nicovideo.jp/magireco" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12352/" target="_blank">GYAO!</a>|
 |異世界かるてっと２|0:30|2020/01/15|<a href="https://ch.nicovideo.jp/isekai-quartet2" target="_blank">ニコニコ</a><br>GYAO!|
 |魔術士オーフェンはぐれ旅|1:00|2020/01/15|<a href="https://ch.nicovideo.jp/ssorphen-anime" target="_blank">ニコニコ</a>|
 |虚構推理|2:00|2020/01/14|<a href="https://ch.nicovideo.jp/kyokousuiri" target="_blank">ニコニコ</a>|
@@ -80,3 +80,8 @@
 |ぼくのとなりに暗黒破壊神がいます。|22:00|2020/01/19|<a href="https://gyao.yahoo.co.jp/p/01114/v00126/" target="_blank">GYAO!</a>|
 |ファンタシ―スタ―オンライン2　エピソ―ド・オラクル|22:30|2019/10/13|<a href="https://ch.nicovideo.jp/pso2_eporacle" target="_blank">ニコニコ</a>|
 |Fate/Grand Order -絶対魔獣戦線バビロニア-|23:00|2019/10/06|<a href="https://ch.nicovideo.jp/ep7-tv" target="_blank">ニコニコ</a>|
+
+## 参考
+- https://anime.nicovideo.jp/period/2020-winter-free.html?from=nanime_2020-winter_list
+- https://gyao.yahoo.co.jp/special/anime/winter/
+- https://new-anime-lineup.abema.tv/pages/2971220/winter
