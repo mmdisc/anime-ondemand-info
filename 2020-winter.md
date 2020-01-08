@@ -44,7 +44,7 @@
 ## 木曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
-|ダーウィンズゲーム|0:00|2020/01/09|<a href="https://ch.nicovideo.jp/darwins-game" target="_blank">ニコニコ</a><br>GYAO!|
+|ダーウィンズゲーム|0:00|2020/01/09|<a href="https://ch.nicovideo.jp/darwins-game" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12353/" target="_blank">GYAO!</a>|
 |パズドラ 第2シリーズ|12:00|2019/04/04|<a href="https://ch.nicovideo.jp/anime-pad2" target="_blank">ニコニコ</a>|
 |カードファイト!! ヴァンガード|21:00(ニコニコ)<br>0:00(GYAO!)|2019/05/16|<a href="https://ch.nicovideo.jp/cf-vanguard-2019" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11162/v00032/" target="_blank">GYAO!</a>|
 |ネコぱら|22:00|2020/01/09|<a href="https://ch.nicovideo.jp/nekopara-anime" target="_blank">ニコニコ</a>|
