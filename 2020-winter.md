@@ -61,7 +61,7 @@
 |とある科学の超電磁砲T|12:00|2020/01/17|ニコニコ|
 |妖怪学園Y Nとの遭遇|12:00|2020/01/17|<a href="https://ch.nicovideo.jp/youkai-watch2020" target="_blank">ニコニコ</a>|
 |妖怪ウォッチ！|12:00|2019/04/12|<a href="https://ch.nicovideo.jp/youkai-watch2019" target="_blank">ニコニコ</a>|
-|恋する小惑星|22:00|2020/01/10|<a href="https://ch.nicovideo.jp/koiastv" target="_blank">ニコニコ</a><br>GYAO!|
+|恋する小惑星|22:00|2020/01/10|<a href="https://ch.nicovideo.jp/koiastv" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01184/" target="_blank">GYAO!</a>|
 
 ## 土曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク名|備考|
