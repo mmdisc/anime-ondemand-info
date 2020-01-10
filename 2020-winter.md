@@ -38,7 +38,7 @@
 |虚構推理|2:00|2020/01/14|<a href="https://ch.nicovideo.jp/kyokousuiri" target="_blank">ニコニコ</a>|
 |ちはやふる3|12:00|2019/10/23|<a href="https://gyao.yahoo.co.jp/title/5da6dce0-0d51-4cc0-be0f-5cdf5114385b" target="_blank">GYAO!</a>|
 |キラッとプリ☆チャン|12:00|2019/04/10|<a href="https://ch.nicovideo.jp/prichan" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00111/v08194/" target="_blank">GYAO!</a>|
-|あひるの空|18:30|2019/10/30|<a href="https://gyao.yahoo.co.jp/p/00252/v10441/" target="_blank">GYAO!</a>|
+|あひるの空|18:30|2019/10/30|<a href="https://gyao.yahoo.co.jp/p/00252/v10441/" target="_blank">GYAO!</a><br><a href="https://abema.tv/video/title/115-68" target="_blank">AbemaTV</a>|
 |Re:ゼロから始める異世界生活 新編集版|23:00|2020/01/01|<a href="https://abema.tv/video/title/25-139" target="_blank">AbemaTV</a>|
 
 ## 木曜日
@@ -54,8 +54,10 @@
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
 |へやキャン△|0:00|2020/01/10|<a href="https://ch.nicovideo.jp/heyacamp" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11168/v00015/" target="_blank">GYAO!</a>|ニコニコは第1話常設無料、第2話、第3話は、最終話の1週間無料配信終了まで常設無料|
+|ソマリと森の神様|0:00|2020/01/10|<a href="https://abema.tv/video/title/481-2" target="_blank">AbemaTV</a>|
 |宝石商リチャード氏の謎鑑定|0:30|2020/01/11(ニコニコ)<br>2020/01/10(GYAO!)|<a href="https://ch.nicovideo.jp/jeweler-richard" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/10660/v00156/" target="_blank">GYAO!</a>|ニコニコは1話1月11日（土）12:00から。2話以降は、金曜0:30配信|
-|群れなせ！シートン学園|0:30|2020/01/10|<a href="https://ch.nicovideo.jp/anime-seton" target="_blank">ニコニコ</a><br>GYAO!|
+|群れなせ！シートン学園|0:30|2020/01/10|<a href="https://ch.nicovideo.jp/anime-seton" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11417/v00001/" target="_blank">GYAO!</a>|
+|はてな☆イリュージョン|3:00|2020/01/10|<a href="https://gyao.yahoo.co.jp/title/5e15a346-bd68-4fce-bc67-c4dd4c1a965b" target="_blank">GYAO!</a>|
 |とある科学の超電磁砲T|12:00|2020/01/17|ニコニコ|
 |妖怪学園Y Nとの遭遇|12:00|2020/01/17|<a href="https://ch.nicovideo.jp/youkai-watch2020" target="_blank">ニコニコ</a>|
 |妖怪ウォッチ！|12:00|2019/04/12|<a href="https://ch.nicovideo.jp/youkai-watch2019" target="_blank">ニコニコ</a>|
