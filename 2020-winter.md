@@ -68,7 +68,7 @@
 |:-:|:-:|:-:|:-:|:---|
 |異種族レビュアーズ|0:00|2020/01/18|GYAO!|
 |ダーウィンズゲーム|0:00|2020/01/04|<a href="https://abema.tv/video/title/26-87" target="_blank">AbemaTV</a>|
-|うちタマ?! うちのタマ知りませんか？|12:00|2020/01/11|<a href="https://ch.nicovideo.jp/uchitama" target="_blank">ニコニコ</a>|
+|うちタマ?! うちのタマ知りませんか？|12:00|2020/01/11|<a href="https://ch.nicovideo.jp/uchitama" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12354/" target="_blank">GYAO!</a>|
 |ゾイドワイルド ZERO|12:00|2019/10/05|<a href="https://ch.nicovideo.jp/zoidswild-zero" target="_blank">ニコニコ</a>|
 |歌舞伎町シャーロック|13:00|2019/10/19|<a href="https://ch.nicovideo.jp/pipecat-kabukicho" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01168/" target="_blank">GYAO!</a>|
 |異種族レビュアーズ|23:30|2020/01/11|<a href="https://ch.nicovideo.jp/isyuzoku" target="_blank">ニコニコ</a>|「裏オプVer.」も配信|
@@ -76,9 +76,11 @@
 ## 日曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
+|八十亀ちゃんかんさつにっき 2さつめ|0:00|2020/01/12|<a href="https://gyao.yahoo.co.jp/p/11162/v00063/" target="_blank">GYAO!</a>|
 |マギアレコード 魔法少女まどか☆マギカ外伝|1:00|2020/01/05|<a href="https://abema.tv/video/title/26-89" target="_blank">AbemaTV</a>|
 |虚構推理|1:30|2020/01/12|<a href="https://gyao.yahoo.co.jp/p/00111/v08210/" target="_blank">GYAO!</a>|
 |デュエル・マスターズ！！|9:00|2019/04/10|<a href="https://ch.nicovideo.jp/duelmasters_2" target="_blank">ニコニコ</a>|
+|ハイキュー!! TO THE TOP|12:00|2020/01/12|<a href="https://gyao.yahoo.co.jp/title/5e142b32-5d1c-4d63-b041-e18cbb5b932f" target="_blank">GYAO!</a>|
 |ぼくのとなりに暗黒破壊神がいます。|22:00|2020/01/19|<a href="https://gyao.yahoo.co.jp/p/01114/v00126/" target="_blank">GYAO!</a>|
 |ファンタシ―スタ―オンライン2　エピソ―ド・オラクル|22:30|2019/10/13|<a href="https://ch.nicovideo.jp/pso2_eporacle" target="_blank">ニコニコ</a>|
 |Fate/Grand Order -絶対魔獣戦線バビロニア-|23:00|2019/10/06|<a href="https://ch.nicovideo.jp/ep7-tv" target="_blank">ニコニコ</a>|
