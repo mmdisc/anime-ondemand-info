@@ -8,9 +8,9 @@
 |:-:|:-:|:-:|:-:|:---|
 |ID: INVADED|0:00|2020/01/13|<a href="https://ch.nicovideo.jp/id-invaded" target="_blank">ニコニコ</a><br>GYAO!|
 |A3!|0:00|2020/01/19|<a href="https://ch.nicovideo.jp/a3-liber" target="_blank">ニコニコ</a>|
-|SHOW BY ROCK!! ましゅまいれっしゅ!!|0:00|2020/01/13|<a href="https://ch.nicovideo.jp/showbyrock-m" target="_blank">ニコニコ</a><br>GYAO!|
+|SHOW BY ROCK!! ましゅまいれっしゅ!!|0:00|2020/01/13|<a href="https://ch.nicovideo.jp/showbyrock-m" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11168/v00016/" target="_blank">GYAO!</a>|
 |おーばーふろぉ|1:00|2020/01/06|<a href="https://ch.nicovideo.jp/overflow" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00274/v10584/" target="_blank">GYAO!</a>|ニコニコは全話常設無料|
-|ソマリと森の神様|12:00|2020/01/13|<a href="https://ch.nicovideo.jp/somali-anime" target="_blank">ニコニコ</a><br>GYAO!|
+|ソマリと森の神様|12:00|2020/01/13|<a href="https://ch.nicovideo.jp/somali-anime" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11342/v00002/" target="_blank">GYAO!</a>|
 |七つの大罪 神々の逆鱗|22:00|2019/10/14|<a href="https://gyao.yahoo.co.jp/p/11244/v00004/" target="_blank">GYAO!</a>|
 |Re:ゼロから始める異世界生活 新編集版|23:00|2020/01/06|<a href="https://ch.nicovideo.jp/re-zero-anime" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01183/" target="_blank">GYAO!</a>|
 |ARP Backstage Pass|23:00|2020/01/20|ニコニコ|
