@@ -6,7 +6,7 @@
 ## 月曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
-|ID: INVADED|0:00|2020/01/13|<a href="https://ch.nicovideo.jp/id-invaded" target="_blank">ニコニコ</a><br>GYAO!|
+|ID: INVADED|0:00|2020/01/13|<a href="https://ch.nicovideo.jp/id-invaded" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01185/" target="_blank">GYAO!</a>|
 |A3!|0:00|2020/01/19|<a href="https://ch.nicovideo.jp/a3-liber" target="_blank">ニコニコ</a>|
 |SHOW BY ROCK!! ましゅまいれっしゅ!!|0:00|2020/01/13|<a href="https://ch.nicovideo.jp/showbyrock-m" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11168/v00016/" target="_blank">GYAO!</a>|
 |おーばーふろぉ|1:00|2020/01/06|<a href="https://ch.nicovideo.jp/overflow" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00274/v10584/" target="_blank">GYAO!</a>|ニコニコは全話常設無料|
