@@ -27,17 +27,18 @@
 |爆丸バトルプラネット|12:00|2019/04/09|<a href="https://ch.nicovideo.jp/bakugan-bp" target="_blank">ニコニコ</a>|
 |ポチっと発明 ピカちんキット|12:00|2018/01/09|<a href="https://ch.nicovideo.jp/pikachin" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00667/v09701/" target="_blank">GYAO!</a>|
 |ダイヤのA actⅡ|19:00|2019/04/02|<a href="https://gyao.yahoo.co.jp/p/11321/v00001/" target="_blank">GYAO!</a>|
-|22/7|23:30|2020/01/14|ニコニコ|
+|22/7|23:30|2020/01/14|<a href="https://ch.nicovideo.jp/22_7" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12355/" target="_blank">GYAO!</a>|
 
 ## 水曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
-|痛いのは嫌なので防御力に極振りしたいと思います。|0:00(ニコニコ、GYAO!)<br>2:30(AbemaTV)|2020/01/15|<a href="https://ch.nicovideo.jp/bofuri" target="_blank">ニコニコ</a><br>GYAO!<br>AbemaTV|
-|プランダラ|0:00(ニコニコ、GYAO!)<br>3:30(AbemaTV)|2020/01/15|<a href="https://ch.nicovideo.jp/plunderer" target="_blank">ニコニコ</a><br>GYAO!<br>AbemaTV|
-|魔術士オーフェンはぐれ旅|0:00(GYAO!)<br>1:00(ニコニコ)<br>2:00(AbemaTV)|2020/01/15|GYAO!<br><a href="https://ch.nicovideo.jp/ssorphen-anime" target="_blank">ニコニコ</a><br>AbemaTV|
+|痛いのは嫌なので防御力に極振りしたいと思います。|0:00(ニコニコ、GYAO!)<br>2:30(AbemaTV)|2020/01/15|<a href="https://ch.nicovideo.jp/bofuri" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00871/v12353/" target="_blank">GYAO!</a><br><a href="https://abema.tv/video/title/54-43" target="_blank">AbemaTV</a>|
+|プランダラ|0:00(ニコニコ、GYAO!)<br>3:30(AbemaTV)|2020/01/15|<a href="https://ch.nicovideo.jp/plunderer" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00871/v12352/" target="_blank">GYAO!</a><br><a href="https://abema.tv/video/title/54-41" target="_blank">AbemaTV</a>|
+|魔術士オーフェンはぐれ旅|0:00(GYAO!)<br>1:00(ニコニコ)<br>2:00(AbemaTV)|2020/01/15|<a href="https://gyao.yahoo.co.jp/p/00032/v09937/" target="_blank">GYAO!</a><br><a href="https://ch.nicovideo.jp/ssorphen-anime" target="_blank">ニコニコ</a><br><a href="https://abema.tv/video/title/413-4" target="_blank">AbemaTV</a>|
+|地縛少年花子くん|0:00|2020/01/15|<a href="https://gyao.yahoo.co.jp/p/00025/v12924/" target="_blank">GYAO!</a>|
 |マギアレコード 魔法少女まどか☆マギカ外伝|0:30|2020/01/08|<a href="https://ch.nicovideo.jp/magireco" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12352/" target="_blank">GYAO!</a>|
-|異世界かるてっと２|0:30|2020/01/15|<a href="https://ch.nicovideo.jp/isekai-quartet2" target="_blank">ニコニコ</a><br>GYAO!|
-|虚構推理|2:00(ニコニコ)<br>3:00(AbemaTV)|2020/01/15|<a href="https://ch.nicovideo.jp/kyokousuiri" target="_blank">ニコニコ</a><br>AbemaTV|
+|異世界かるてっと２|0:00(AbemaTV)<br>0:30(ニコニコ、GYAO!)|2020/01/15|<a href="https://abema.tv/video/title/25-138" target="_blank">AbemaTV</a><br><a href="https://ch.nicovideo.jp/isekai-quartet2" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01186/" target="_blank">GYAO!</a>|
+|虚構推理|2:00(ニコニコ)<br>3:00(AbemaTV)|2020/01/15|<a href="https://ch.nicovideo.jp/kyokousuiri" target="_blank">ニコニコ</a><br><a href="https://abema.tv/video/title/190-20" target="_blank">AbemaTV</a>|
 |ちはやふる3|12:00|2019/10/23|<a href="https://gyao.yahoo.co.jp/title/5da6dce0-0d51-4cc0-be0f-5cdf5114385b" target="_blank">GYAO!</a>|
 |キラッとプリ☆チャン|12:00|2019/04/10|<a href="https://ch.nicovideo.jp/prichan" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00111/v08194/" target="_blank">GYAO!</a>|
 |あひるの空|18:30|2019/10/30|<a href="https://gyao.yahoo.co.jp/p/00252/v10441/" target="_blank">GYAO!</a><br><a href="https://abema.tv/video/title/115-68" target="_blank">AbemaTV</a>|
@@ -47,7 +48,7 @@
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
 |ダーウィンズゲーム|0:00|2020/01/09|<a href="https://ch.nicovideo.jp/darwins-game" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12353/" target="_blank">GYAO!</a>|
-|言霊少女 the Animation|3:30|2020/01/16|AbemaTV|
+|言霊少女 the Animation|3:30|2020/01/16|<a href="https://abema.tv/video/title/168-19" target="_blank">AbemaTV</a>|
 |パズドラ 第2シリーズ|12:00|2019/04/04|<a href="https://ch.nicovideo.jp/anime-pad2" target="_blank">ニコニコ</a>|
 |カードファイト!! ヴァンガード|21:00(ニコニコ)<br>0:00(GYAO!)|2019/05/16|<a href="https://ch.nicovideo.jp/cf-vanguard-2019" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11162/v00032/" target="_blank">GYAO!</a>|
 |ネコぱら|22:00(ニコニコ)<br>3:00(AbemaTV)|2020/01/09|<a href="https://ch.nicovideo.jp/nekopara-anime" target="_blank">ニコニコ</a><br>AbemaTV|
