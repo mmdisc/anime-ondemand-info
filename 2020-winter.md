@@ -48,10 +48,11 @@
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
 |ダーウィンズゲーム|0:00|2020/01/09|<a href="https://ch.nicovideo.jp/darwins-game" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12353/" target="_blank">GYAO!</a>|
+|織田シナモン信長|0:00|2020/01/16|<a href="https://ch.nicovideo.jp/shinamon-nobunaga" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00908/v14864/" target="_blank">GYAO!</a>|
 |言霊少女 the Animation|3:30|2020/01/16|<a href="https://abema.tv/video/title/168-19" target="_blank">AbemaTV</a>|
 |パズドラ 第2シリーズ|12:00|2019/04/04|<a href="https://ch.nicovideo.jp/anime-pad2" target="_blank">ニコニコ</a>|
 |カードファイト!! ヴァンガード|21:00(ニコニコ)<br>0:00(GYAO!)|2019/05/16|<a href="https://ch.nicovideo.jp/cf-vanguard-2019" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11162/v00032/" target="_blank">GYAO!</a>|
-|ネコぱら|22:00(ニコニコ)<br>3:00(AbemaTV)|2020/01/09|<a href="https://ch.nicovideo.jp/nekopara-anime" target="_blank">ニコニコ</a><br>AbemaTV|
+|ネコぱら|22:00(ニコニコ)<br>3:00(AbemaTV)|2020/01/09|<a href="https://ch.nicovideo.jp/nekopara-anime" target="_blank">ニコニコ</a><br><a href="https://abema.tv/video/title/168-21" target="_blank">AbemaTV</a>|
 |インフィニット・デンドログラム</a>|23:30|2020/01/16|<a href="https://ch.nicovideo.jp/dendro-anime" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00657/v09956/" target="_blank">GYAO!</a>|
 
 ## 金曜日
