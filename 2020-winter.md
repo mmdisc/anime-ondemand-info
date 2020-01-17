@@ -62,10 +62,10 @@
 |ソマリと森の神様|0:00|2020/01/10|<a href="https://abema.tv/video/title/481-2" target="_blank">AbemaTV</a>|
 |宝石商リチャード氏の謎鑑定|0:30|2020/01/11(ニコニコ)<br>2020/01/10(GYAO!)|<a href="https://ch.nicovideo.jp/jeweler-richard" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/10660/v00156/" target="_blank">GYAO!</a>|ニコニコは1話1月11日（土）12:00から。2話以降は、金曜0:30配信|
 |群れなせ！シートン学園|0:30|2020/01/10|<a href="https://ch.nicovideo.jp/anime-seton" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11417/v00001/" target="_blank">GYAO!</a>|
+|インフィニット・デンドログラム</a>|2:00|2020/01/17|<a href="https://abema.tv/video/title/149-7" target="_blank">AbemaTV</a>|
 |はてな☆イリュージョン|3:00|2020/01/10|<a href="https://gyao.yahoo.co.jp/title/5e15a346-bd68-4fce-bc67-c4dd4c1a965b" target="_blank">GYAO!</a>|
-|とある科学の超電磁砲T|12:00|2020/01/17|ニコニコ|
+|とある科学の超電磁砲T|12:00|2020/01/17|<a href="https://ch.nicovideo.jp/toaru-railgun-t" target="_blank">ニコニコ</a>|
 |妖怪学園Y Nとの遭遇|12:00|2020/01/17|<a href="https://ch.nicovideo.jp/youkai-watch2020" target="_blank">ニコニコ</a>|
-|妖怪ウォッチ！|12:00|2019/04/12|<a href="https://ch.nicovideo.jp/youkai-watch2019" target="_blank">ニコニコ</a>|
 |恋する小惑星|22:00|2020/01/10|<a href="https://ch.nicovideo.jp/koiastv" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01184/" target="_blank">GYAO!</a>|
 |地縛少年花子くん|22:30|2020/01/17|<a href="https://abema.tv/video/title/189-17" target="_blank">AbemaTV</a>|
 
@@ -74,6 +74,7 @@
 |:-:|:-:|:-:|:-:|:---|
 |異種族レビュアーズ|0:00|2020/01/18|GYAO!|
 |ダーウィンズゲーム|0:00|2020/01/04|<a href="https://abema.tv/video/title/26-87" target="_blank">AbemaTV</a>|
+|とある科学の超電磁砲T|1:05|2020/01/11|<a href="https://abema.tv/video/title/199-30" target="_blank">AbemaTV</a>|
 |八十亀ちゃんかんさつにっき 2さつめ|1:05|2020/01/11|<a href="https://abema.tv/video/title/482-4" target="_blank">AbemaTV</a>|
 |うちタマ?! うちのタマ知りませんか？|12:00|2020/01/11|<a href="https://ch.nicovideo.jp/uchitama" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12354/" target="_blank">GYAO!</a>|
 |ゾイドワイルド ZERO|12:00|2019/10/05|<a href="https://ch.nicovideo.jp/zoidswild-zero" target="_blank">ニコニコ</a>|
