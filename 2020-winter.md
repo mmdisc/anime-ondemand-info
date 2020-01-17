@@ -72,7 +72,7 @@
 ## 土曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク名|備考|
 |:-:|:-:|:-:|:-:|:---|
-|異種族レビュアーズ|0:00|2020/01/18|GYAO!|
+|異種族レビュアーズ|0:00|2020/01/18|<a href="https://gyao.yahoo.co.jp/p/00871/v12354/" target="_blank">GYAO!</a>|
 |ダーウィンズゲーム|0:00|2020/01/04|<a href="https://abema.tv/video/title/26-87" target="_blank">AbemaTV</a>|
 |とある科学の超電磁砲T|1:05|2020/01/11|<a href="https://abema.tv/video/title/199-30" target="_blank">AbemaTV</a>|
 |八十亀ちゃんかんさつにっき 2さつめ|1:05|2020/01/11|<a href="https://abema.tv/video/title/482-4" target="_blank">AbemaTV</a>|
