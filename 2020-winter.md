@@ -7,7 +7,7 @@
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
 |ID: INVADED|0:00(ニコニコ、GYAO!)<br>1:30(AbemaTV)|2020/01/13|<a href="https://ch.nicovideo.jp/id-invaded" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01185/" target="_blank">GYAO!</a><br><a href="https://abema.tv/video/title/25-141" target="_blank">AbemaTV</a>|
-|A3!|0:00|2020/01/19|<a href="https://ch.nicovideo.jp/a3-liber" target="_blank">ニコニコ</a>|
+|A3!|0:00(ニコニコ)<br>2:00(AbemaTV)|2020/01/20|<a href="https://ch.nicovideo.jp/a3-liber" target="_blank">ニコニコ</a><br><a href="https://abema.tv/video/title/189-16" target="_blank">AbemaTV</a>|
 |SHOW BY ROCK!! ましゅまいれっしゅ!!|0:00(ニコニコ、GYAO!)<br>2:30(AbemaTV)|2020/01/13|<a href="https://ch.nicovideo.jp/showbyrock-m" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11168/v00016/" target="_blank">GYAO!</a><br><a href="https://abema.tv/video/title/247-11" target="_blank">AbemaTV</a>|
 |おーばーふろぉ|1:00|2020/01/06|<a href="https://ch.nicovideo.jp/overflow" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00274/v10584/" target="_blank">GYAO!</a>|ニコニコは全話常設無料|
 |ソマリと森の神様|12:00|2020/01/13|<a href="https://ch.nicovideo.jp/somali-anime" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/11342/v00002/" target="_blank">GYAO!</a>|
@@ -72,7 +72,7 @@
 ## 土曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク名|備考|
 |:-:|:-:|:-:|:-:|:---|
-|異種族レビュアーズ|0:00|2020/01/18|<a href="https://gyao.yahoo.co.jp/p/00871/v12354/" target="_blank">GYAO!</a>|
+|異種族レビュアーズ|0:00(GYAO!)<br>1:35(AbemaTV)|2020/01/18|<a href="https://gyao.yahoo.co.jp/p/00871/v12354/" target="_blank">GYAO!</a><br><a href="https://abema.tv/video/title/54-42/" target="_blank">AbemaTV</a>|
 |ダーウィンズゲーム|0:00|2020/01/04|<a href="https://abema.tv/video/title/26-87" target="_blank">AbemaTV</a>|
 |とある科学の超電磁砲T|1:05|2020/01/11|<a href="https://abema.tv/video/title/199-30" target="_blank">AbemaTV</a>|
 |八十亀ちゃんかんさつにっき 2さつめ|1:05|2020/01/11|<a href="https://abema.tv/video/title/482-4" target="_blank">AbemaTV</a>|
