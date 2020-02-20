@@ -14,7 +14,7 @@
 |恋する小惑星|22:00|2020/01/06|<a href="https://abema.tv/video/title/25-137" target="_blank">AbemaTV</a>|
 |七つの大罪 神々の逆鱗|22:00|2019/10/14|<a href="https://gyao.yahoo.co.jp/p/11244/v00004/" target="_blank">GYAO!</a>|
 |Re:ゼロから始める異世界生活 新編集版|23:00|2020/01/06|<a href="https://ch.nicovideo.jp/re-zero-anime" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00998/v01183/" target="_blank">GYAO!</a>|
-|ARP Backstage Pass|23:00|2020/01/20|ニコニコ|
+|ARP Backstage Pass|23:00|2020/01/20|<a href="https://ch.nicovideo.jp/arp-anime" target="_blank">ニコニコ</a>|
 
 ## 火曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
@@ -47,6 +47,7 @@
 ## 木曜日
 |作品名|配信開始時間|配信開始日時|配信サービスリンク|備考|
 |:-:|:-:|:-:|:-:|:---|
+|BanG Dream! 3rd Season|0:00|2020/02/20|<a href="https://gyao.yahoo.co.jp/p/01114/v00131/" target="_blank">GYAO!</a>|
 |ダーウィンズゲーム|0:00|2020/01/09|<a href="https://ch.nicovideo.jp/darwins-game" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00548/v12353/" target="_blank">GYAO!</a>|
 |織田シナモン信長|0:00|2020/01/16|<a href="https://ch.nicovideo.jp/shinamon-nobunaga" target="_blank">ニコニコ</a><br><a href="https://gyao.yahoo.co.jp/p/00908/v14864/" target="_blank">GYAO!</a>|
 |言霊少女 the Animation|3:30|2020/01/16|<a href="https://abema.tv/video/title/168-19" target="_blank">AbemaTV</a>|
